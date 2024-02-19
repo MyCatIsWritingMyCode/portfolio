@@ -1,27 +1,23 @@
 ﻿[
   {
-    "date": "2022-01-06",
-    "temperatureC": 1,
-    "summary": "Freezing"
+    "title": "AtomoS 🎮",
+    "description": "This game was made during a Ludum Dare - Game Jam with the Unity game-engine.",
+    "year": 2018,
+    "imagepath": "images/projects/atomos.jpg",
+    "url": "https://daydreamerstudios.itch.io/atomos"
   },
   {
-    "date": "2022-01-07",
-    "temperatureC": 14,
-    "summary": "Bracing"
+    "title": "Web Development for Beginners",
+    "description": "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
+    "year": 2019,
+    "imagepath": "images/projects/ar-foundation.jpg",
+    "url": "https://github.com/microsoft/web-dev-for-beginners"
   },
   {
-    "date": "2022-01-08",
-    "temperatureC": -13,
-    "summary": "Freezing"
-  },
-  {
-    "date": "2022-01-09",
-    "temperatureC": -16,
-    "summary": "Balmy"
-  },
-  {
-    "date": "2022-01-10",
-    "temperatureC": -2,
-    "summary": "Chilly"
+    "title": "My Resume Site",
+    "description": "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+    "year": 2020,
+    "imagepath": "images/tech-background.jpg",
+    "url": "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website"
   }
 ]
