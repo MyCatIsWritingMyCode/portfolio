@@ -31,14 +31,14 @@
     "title": "My Portfolio Site",
     "description": "",
     "year": 2024,
-    "imagepath": "images/projects/portfolio-screenshot.PNG",
+    "imagepath": "images/projects/portfolio-screenshot.png",
     "url": "https://mycatiswritingmycode.github.io/portfolio/"
   },
   {
     "title": "Animalfarm Simulation in a Console App (WIP)",
     "description": "Simulation a Farm.",
     "year": 2024,
-    "imagepath": "images/projects/farm-simulation.PNG",
+    "imagepath": "images/projects/farm-simulation.png",
     "url": "https://github.com/MyCatIsWritingMyCode/AnimalFarmSimulation"
   }
 ]
