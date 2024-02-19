@@ -1,0 +1,25 @@
+/* /Layout/Footer.razor.rz.scp.css */
+#contact[b-zqjdoh9eyu] {
+    background-color: lightblue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2.5rem;
+    padding: 5rem 0 3rem;
+    width: 100vw;
+}
+.created-by[b-zqjdoh9eyu]{
+    color:white;
+}
+/* /Layout/Header.razor.rz.scp.css */
+#header[b-fa30d25186] {
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  background: rgba(255,255,255,0.75);
+  padding: 1rem;
+  top: 0;
+  width: 100%;
+  z-index: 10;
+}
