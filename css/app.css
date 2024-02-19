@@ -222,10 +222,13 @@ img.social-icon {
         margin: 3rem auto;
         text-align: center;
     }
+    .about-container p {
+        font-size: 1rem;
+    }
     .about-container ul {
         text-align: left;
         columns: 1;
-        font-size: 1.25rem;
+        font-size: 0.75rem;
         margin: 2rem 3rem;
         gap: 3rem;
     }
