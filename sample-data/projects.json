@@ -31,14 +31,14 @@
     "title": "Portfolio Website",
     "description": "This Website was written in ASP.NET core with the Blazor Framework.",
     "year": 2024,
-    "imagepath": "images/projects/portfolio-screenshot.png",
+    "imagepath": "images/projects/portfolio.png",
     "url": "https://mycatiswritingmycode.github.io/portfolio/"
   },
   {
     "title": "Animalfarm Simulation in a Console App (WIP)",
     "description": "Simulation of a farm",
     "year": 2024,
-    "imagepath": "images/projects/farm-simulation.png",
+    "imagepath": "images/projects/farm.png",
     "url": "https://github.com/MyCatIsWritingMyCode/AnimalFarmSimulation"
   }
 ]
