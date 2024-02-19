@@ -1,0 +1,44 @@
+﻿[
+  {
+    "title": "HTL Donaustadt",
+    "description": "Department for Information Technology",
+    "timespan": "2015-2020",
+    "imagepath": "images/cv-links/donaustadt.png",
+    "url": "https://www.htl-donaustadt.at/home"
+  },
+  {
+    "title": "viadonau",
+    "description": "Network",
+    "timespan": "2019",
+    "imagepath": "images/cv-links/viadonau.png",
+    "url": "https://github.com/microsoft/web-dev-for-beginners"
+  },
+  {
+    "title": "Bundesheer",
+    "description": "",
+    "timespan": "2020",
+    "imagepath": "images/cv-links/bundesheer.png",
+    "url": "https://github.com/microsoft/web-dev-for-beginners"
+  },
+  {
+    "title": "FH Technikum Wien",
+    "description": "Smart Home & Assistive Technologien",
+    "timespan": "2021-now",
+    "imagepath": "images/cv-links/fhtw.png",
+    "url": "https://github.com/microsoft/web-dev-for-beginners"
+  },
+  {
+    "title": "OMV",
+    "description": "Junior IOT Network Specialist",
+    "timespan": "2021",
+    "imagepath": "images/cv-links/omv.png",
+    "url": "https://github.com/microsoft/web-dev-for-beginners"
+  },
+  {
+    "title": "Phoenix Contact",
+    "description": "Junior Produkt Manager",
+    "timespan": "2021-now",
+    "imagepath": "images/cv-links/pxc.png",
+    "url": "https://github.com/microsoft/web-dev-for-beginners"
+  }
+]

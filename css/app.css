@@ -10,6 +10,19 @@ body {
     font-family: "Montserrat", sans-serif;
 }
 
+#header {
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    font-size: 1rem;
+    gap: 2rem;
+    background: rgba(255,255,255,0.75);
+    padding: 1rem;
+    top: 0;
+    width: 100%;
+    z-index: 10;
+}
+
 div#main {
     display: flex;
     flex-direction: column;
@@ -24,6 +37,12 @@ section {
 section#home {
     color: white;
     background: rgba(0, 0, 0, 0.35);
+}
+
+#down-arrow-button {
+    position: absolute;
+    bottom: 8rem;
+    left: 50%;
 }
 
 section img.background {
@@ -44,8 +63,6 @@ h1 {
     font-size: 7rem;
     margin: 0;
 }
-
-
 
 h2 {
     font-weight: 400;
@@ -98,8 +115,11 @@ a:hover {
 
 .portfolio-container {
     display: flex;
-    flex-direction: row;
     padding-top: 3rem;
+}
+.portfolio-cards {
+    align-self: center;
+    width: 80vw;
 }
 
 .portfolio-bg {
@@ -107,14 +127,12 @@ a:hover {
     align-self: center;
 }
 
-
 .container {
     margin: 20px auto;
     display: grid;
     grid-template-columns: 330px 300px;
     grid-gap: 20px;
 }
-
 
 .container .box {
     border-radius: 10px;
@@ -135,42 +153,90 @@ img.social-icon {
     top: 65%; 
     left: 55%;
 }
+.about-container {
+    background-color: white;
+    width: 50%;
+    padding: 4rem;
+    margin: 3rem auto;
+    text-align: center;
+}
+.about-container ul {
+    text-align: left;
+    columns: 2;
+    font-size: 1.25rem;
+    margin: 2rem 3rem;
+    gap: 3rem;
+}
+/*@media screen and (min-width: 501px) and (max-width: 360px) {
+    #name-title h1 {
+        font-weight: 350;
+        font-size: 2rem;
+    }
+
+    #name-title h2 {
+        font-weight: 200;
+        font-size: 1rem;
+    }
+
+    #name-title {
+        position: absolute;
+        margin-top: 20%;
+    }
+
+}*/
+
 
 @media screen and (max-width: 500px) {
-    h1 {
+    #name-title h1 {
         font-weight: 350;
-        font-family: "Cormorant Garamond", serif;
-        font-size: 3.5rem;
+        font-size: 2rem;
     }
-    h2 {
-        font-weight: 200;
-        font-family: "Cormorant Garamond", serif;
-        font-size: 1.5rem;
 
+    #name-title h2 {
+        font-weight: 200;
+        font-size: 1rem;
     }
+
     #name-title {
         position: absolute;
-        top: 10px;
-        margin-top: -40%;
-    }
-    .portfolio-container {
-        flex-direction: column;
-    }
-    .portfolio-bg {
-        max-width: 100%;
-        align-self: center;
-    }
-    .container {
-        margin: 20px auto;
-        display: inline;
-        grid-template-columns: 330px 300px;
-        grid-gap: 20px;
-    }
-    #name-title {
-        
-        position: absolute;
-        align-content:center;
+        margin-top: 25%;
+        align-content: center;
         top: 30%;
         left: 2rem;
     }
+
+    section#home {
+        min-height: 35vh;
+        position: relative;
+        top: initial;
+    }
+    #down-arrow-button {
+        position: absolute;
+        bottom: 1rem;
+        left: 85%;
+    }
+
+    .about-container {
+        width: 80%;
+        padding: 3rem;
+        margin: 3rem auto;
+        text-align: center;
+    }
+    .about-container ul {
+        text-align: left;
+        columns: 1;
+        font-size: 1.25rem;
+        margin: 2rem 3rem;
+        gap: 3rem;
+    }
+    #header {
+        font-size: 1rem;
+        position: static;
+        display: grid;
+        justify-content: center;
+        width: 100%;
+        z-index: 10;
+    }
+    
+        
 }

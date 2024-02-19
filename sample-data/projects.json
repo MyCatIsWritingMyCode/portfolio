@@ -7,17 +7,38 @@
     "url": "https://daydreamerstudios.itch.io/atomos"
   },
   {
-    "title": "Web Development for Beginners",
-    "description": "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
+    "title": "Wizzard IO 🎮",
+    "description": "Small online multiplay game developed with friends.",
     "year": 2019,
+    "imagepath": "images/projects/wizzard.png",
+    "url": ""
+  },
+  {
+    "title": "Schnitzeljagt AR 📱",
+    "description": "The goal of this project was a virtual scavanger hunt through the schoolbuilding. The idea was to show new students around the school in a fun way, by taking part in a real live scavanger hunt, with a virtual overlay.",
+    "year": 2020,
     "imagepath": "images/projects/ar-foundation.jpg",
     "url": "https://github.com/microsoft/web-dev-for-beginners"
   },
   {
-    "title": "My Resume Site",
-    "description": "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    "year": 2020,
-    "imagepath": "images/tech-background.jpg",
-    "url": "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website"
+    "title": "Monitoring a Building Automation Setup",
+    "description": "This project shows, that it is possbile to monitor building automation networks with a network monitoring tools, meant for IT-Networks.",
+    "year": 2023,
+    "imagepath": "images/projects/icinga.png",
+    "url": "https://github.com/MyCatIsWritingMyCode/icinga-with-mqtt-plugins-configurationfolders"
+  },
+  {
+    "title": "My Portfolio Site",
+    "description": "",
+    "year": 2024,
+    "imagepath": "images/projects/portfolio-screenshot.PNG",
+    "url": "https://mycatiswritingmycode.github.io/portfolio/"
+  },
+  {
+    "title": "Animalfarm Simulation in a Console App (WIP)",
+    "description": "Simulation a Farm.",
+    "year": 2024,
+    "imagepath": "images/projects/farm-simulation.PNG",
+    "url": "https://github.com/MyCatIsWritingMyCode/AnimalFarmSimulation"
   }
 ]

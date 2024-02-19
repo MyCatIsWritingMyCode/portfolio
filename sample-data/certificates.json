@@ -1,0 +1,32 @@
+﻿[
+  {
+    "title": "Energiemanagement",
+    "description": "",
+    "year": 2018,
+    "url": "https://daydreamerstudios.itch.io/atomos"
+  },
+  {
+    "title": "IBM z/OS Mainframe",
+    "description": "",
+    "year": 2019,
+    "url": "https://github.com/microsoft/web-dev-for-beginners"
+  },
+  {
+    "title": "Cisco Network Essentials",
+    "description": "",
+    "year": 2020,
+    "url": "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website"
+  },
+  {
+    "title": "Finanzführerschein",
+    "description": "",
+    "year": 2020,
+    "url": "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website"
+  },
+  {
+    "title": "Harvward CS50x",
+    "description": "Programming zertifivate from harvards online class.",
+    "year": 2020,
+    "url": "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website"
+  }
+]
