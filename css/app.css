@@ -57,21 +57,21 @@ section img.background {
     object-fit: cover;
 }
 
-h1 {
+h2 {
     font-weight: 300;
     font-family: "Cormorant Garamond", serif;
     font-size: 7rem;
     margin: 0;
 }
 
-h2 {
+h3 {
     font-weight: 400;
     font-size: 2rem;
     margin: 0;
     text-align: center;
 }
 
-h3 {
+h4 {
     font-weight: 400;
     font-size: 1.25rem;
     margin: 0;
@@ -167,7 +167,7 @@ img.social-icon {
     margin: 2rem 3rem;
     gap: 3rem;
 }
-/*@media screen and (min-width: 501px) and (max-width: 360px) {
+/*@media screen and (min-width: 501px) and (max-width: 1000px) {
     #name-title h1 {
         font-weight: 350;
         font-size: 2rem;
@@ -187,12 +187,12 @@ img.social-icon {
 
 
 @media screen and (max-width: 500px) {
-    #name-title h1 {
+    #name-title h2 {
         font-weight: 350;
         font-size: 2rem;
     }
 
-    #name-title h2 {
+    #name-title h3 {
         font-weight: 200;
         font-size: 1rem;
     }
@@ -204,12 +204,18 @@ img.social-icon {
         top: 30%;
         left: 2rem;
     }
+    section {
+        position: relative;
+        min-height: 80vh;
+        padding: 4rem 0;
+    }
 
     section#home {
         min-height: 35vh;
         position: relative;
         top: initial;
     }
+
     #down-arrow-button {
         position: absolute;
         bottom: 1rem;
@@ -218,12 +224,12 @@ img.social-icon {
 
     .about-container {
         width: 80%;
-        padding: 3rem;
-        margin: 3rem auto;
+        padding: 1.5rem;
+        margin: 1.5rem auto;
         text-align: center;
     }
     .about-container p {
-        font-size: 1rem;
+        font-size: 0.9rem;
     }
     .about-container ul {
         text-align: left;
@@ -233,13 +239,29 @@ img.social-icon {
         gap: 3rem;
     }
     #header {
-        font-size: 1rem;
+        font-size: 1.2rem;
         position: static;
         display: grid;
-        justify-content: center;
-        width: 100%;
-        z-index: 10;
+        justify-content: initial;
+        width: 100vw;
+        top: initial;
+        background-color: lightgray;
+        background: initial;
+        padding: initial;
+        gap: initial;
+        padding-bottom: 2rem;
     }
-    
+    .header-ref-container {
+        display: grid;
+        width: 40vw;
+        margin: auto;
+
+    }
+    #header a {
         
+        margin: 5%;
+        font-weight: 650;
+        border-bottom: 1px solid black;
+        padding-bottom: 0.5rem;
+    }  
 }

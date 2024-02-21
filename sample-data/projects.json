@@ -1,13 +1,13 @@
 ﻿[
   {
-    "title": "AtomoS 🎮",
+    "title": "AtomoS - click me 🎮",
     "description": "This game was made during a Ludum Dare - Game Jam with the Unity game-engine.",
     "year": 2018,
     "imagepath": "images/projects/atomos.jpg",
     "url": "https://daydreamerstudios.itch.io/atomos"
   },
   {
-    "title": "Wizzard IO 🎮",
+    "title": "Wizzard IO",
     "description": "Small online multiplay game developed with friends.",
     "year": 2019,
     "imagepath": "images/projects/wizzard.png",
@@ -35,8 +35,8 @@
     "url": "https://mycatiswritingmycode.github.io/portfolio/"
   },
   {
-    "title": "Animalfarm Simulation in a Console App (WIP)",
-    "description": "Simulation of a farm",
+    "title": "Console Simulation with SQLite(WIP)",
+    "description": "This project uses SQLite and makes use of the Entity Framework Core.",
     "year": 2024,
     "imagepath": "images/projects/farm.png",
     "url": "https://github.com/MyCatIsWritingMyCode/AnimalFarmSimulation"

@@ -8,7 +8,7 @@
   },
   {
     "title": "viadonau",
-    "description": "Intern at the IT department",
+    "description": "Intern - IT department",
     "timespan": "2019",
     "imagepath": "images/cv-links/viadonau.png",
     "url": "https://github.com/microsoft/web-dev-for-beginners"
@@ -22,21 +22,21 @@
   },
   {
     "title": "FH Technikum Wien",
-    "description": "Smart Home & Assistive Technologien",
+    "description": "Smart Home & Assistive Technologien B.Sc.",
     "timespan": "2021-now",
     "imagepath": "images/cv-links/fhtw.png",
     "url": "https://github.com/microsoft/web-dev-for-beginners"
   },
   {
     "title": "OMV",
-    "description": "Junior IOT Network Specialist",
+    "description": "Junior IoT-Network Specialist",
     "timespan": "2021",
     "imagepath": "images/cv-links/omv.png",
     "url": "https://github.com/microsoft/web-dev-for-beginners"
   },
   {
     "title": "Phoenix Contact",
-    "description": "Junior Produkt Manager",
+    "description": "Junior Produkt Manager - Industrial Management & Automation",
     "timespan": "2021-now",
     "imagepath": "images/cv-links/pxc.png",
     "url": "https://github.com/microsoft/web-dev-for-beginners"
