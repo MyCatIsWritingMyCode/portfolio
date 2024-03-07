@@ -253,13 +253,13 @@ img.social-icon {
     }
     .header-ref-container {
         display: grid;
-        width: 40vw;
+        width: 90vw;
         margin: auto;
 
     }
     #header a {
         
-        margin: 5%;
+        margin: 2%;
         font-weight: 650;
         border-bottom: 1px solid black;
         padding-bottom: 0.5rem;

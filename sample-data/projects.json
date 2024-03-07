@@ -26,19 +26,5 @@
     "year": 2023,
     "imagepath": "images/projects/icinga.png",
     "url": "https://github.com/MyCatIsWritingMyCode/icinga-with-mqtt-plugins-configurationfolders"
-  },
-  {
-    "title": "Portfolio Website",
-    "description": "This Website was written in ASP.NET core with the Blazor Framework.",
-    "year": 2024,
-    "imagepath": "images/projects/portfolio.png",
-    "url": "https://mycatiswritingmycode.github.io/portfolio/"
-  },
-  {
-    "title": "Console Simulation with SQLite(WIP)",
-    "description": "This project uses SQLite and makes use of the Entity Framework Core.",
-    "year": 2024,
-    "imagepath": "images/projects/farm.png",
-    "url": "https://github.com/MyCatIsWritingMyCode/AnimalFarmSimulation"
   }
 ]
